@@ -1,0 +1,5 @@
+../Core/Src/logging.c:12:6:cb_init	24	static
+../Core/Src/logging.c:27:6:cb_free	16	static
+../Core/Src/logging.c:39:6:cb_push_back	16	static
+../Core/Src/logging.c:54:6:cb_pop_front	16	static
+../Core/Src/logging.c:71:5:_write	32	static
